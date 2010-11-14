@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buses type="array">
+  <bus>
+    <arrival type="datetime">2010-10-09T20:30:00Z</arrival>
+    <comment nil="true"/>
+    <created-at type="datetime">2010-10-08T20:54:56Z</created-at>
+    <departure type="datetime">2010-10-09T20:25:00Z</departure>
+    <description nil="true"/>
+    <direction>both_directions</direction>
+    <id type="integer">3</id>
+    <maximum-seats type="integer">50</maximum-seats>
+    <name>Test3</name>
+    <return type="datetime">2010-10-09T20:35:00Z</return>
+    <sales-lead type="integer" nil="true"/>
+    <status>open</status>
+    <ticket-price type="float" nil="true"/>
+    <trip-id type="integer">1</trip-id>
+    <updated-at type="datetime">2010-10-08T20:54:56Z</updated-at>
+  </bus>
+  <bus>
+    <arrival type="datetime">2010-10-16T20:30:00Z</arrival>
+    <comment nil="true"/>
+    <created-at type="datetime">2010-10-08T20:54:56Z</created-at>
+    <departure type="datetime">2010-10-16T20:25:00Z</departure>
+    <description nil="true"/>
+    <direction>both_directions</direction>
+    <id type="integer">4</id>
+    <maximum-seats type="integer">50</maximum-seats>
+    <name>Test4</name>
+    <return type="datetime">2010-10-16T20:35:00Z</return>
+    <sales-lead type="integer" nil="true"/>
+    <status>open</status>
+    <ticket-price type="float" nil="true"/>
+    <trip-id type="integer">1</trip-id>
+    <updated-at type="datetime">2010-10-08T20:54:56Z</updated-at>
+  </bus>
+  <bus>
+    <arrival type="datetime">2010-10-23T20:30:00Z</arrival>
+    <comment nil="true"/>
+    <created-at type="datetime">2010-10-08T20:54:56Z</created-at>
+    <departure type="datetime">2010-10-23T20:25:00Z</departure>
+    <description nil="true"/>
+    <direction>both_directions</direction>
+    <id type="integer">5</id>
+    <maximum-seats type="integer">50</maximum-seats>
+    <name>Test5</name>
+    <return type="datetime">2010-10-23T20:35:00Z</return>
+    <sales-lead type="integer" nil="true"/>
+    <status>open</status>
+    <ticket-price type="float" nil="true"/>
+    <trip-id type="integer">1</trip-id>
+    <updated-at type="datetime">2010-10-08T20:54:56Z</updated-at>
+  </bus>
+  <student bus ="3" boarded="0">33A7D3DA476A32AC237B3F603A1BE62FAD00299E0D4B5A8DB8D913104EDEC629</student>
+  <student bus ="4" boarded="0">F0CF5779D45F6E575D37022E2D3DB06CDAAFD00E6564B912FFAC4EC79CB8BC89</student>
+</buses>
